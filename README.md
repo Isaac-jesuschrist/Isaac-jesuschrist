@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Isaac
-- 👀 I’m interested in Creating
-- 🌱 I’m currently learning MCA
+- 👀 I’m interested in Creating and Developing ai
+- 🌱 I’m currently studying MCA
 - 💞️ I’m looking to collaborate on knowledge sharing team
-- 📫 email - sonofjesus742001@gmail.com
+- 📫 email - isaac07042001@gmail.com
 
 <!---
 Isaac-jesuschrist/Isaac-jesuschrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
